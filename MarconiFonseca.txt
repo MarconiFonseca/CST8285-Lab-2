@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+
+	
+  <title> Marconi's Notes </title>
+  
+  </head>
+ 
+<body> 
+	<h1>Web Programming - Lab1</h1> 
+		
+		<p>  <strong> Marconi Fonseca </strong>
+		<br> <strong>040934024</strong>
+		
+	<h2>  <strong>A Brief history of my life</strong> </h2>
+		 <p>
+		   My name is Marconi Fonseca and I am from Brazil. I have been living in Ottawa since September 2017. 
+		   I am currently working towards the Computer Programmer Diploma.  
+			I hold a Bachelor's Degree in Electrical Engineering from Brazil and I am extending my career to the programming field.  
+		 </p>
+		
+	<h2> Why I chose this program</h2>
+		<p>I chose this course because I really want getting started on my coding journey. I have tried to learn alone and it didn't work.</p>
+
+	<h2>  Web sites I like  </h2>
+	<p> <a href="https://www.algonquincollege.com/brightspace/"> <strong>Brightspace</strong> </a> </p>
+	 <p><a href="https://www.w3schools.com/"> <strong>W3 Schools</strong> </a> </p>
+	<p> <a href="https://www.rico.com.vc/"> <strong>Rico</strong> </a> </p>
+
+
+	<h2>  <strong> How to contact me </strong> </h2>
+
+		<p>I will share my LinkedIn profile in case somebody might want to add me.</p>
+		
+		  <a href="https://www.linkedin.com/in/marconi-fonseca-51b10434/" target="_blank">
+                    <img alt="In" src="data:image/png;base64,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" />
+                </a>
+	
+	<h2> <strong> Social Media platforms I use </strong> </h2>
+	
+	<a href="https://www.facebook.com/correa.marconi" target="_blank" >
+                    <img alt="Facebook" src="https://static1.squarespace.com/static/555bbf20e4b0b5fd51a7d6dc/t/59e66533bff2005bcae6b38f/1471291850343/social-logo-facebook.jpg" />
+                </a> 
+	
+	<h2> Laptop you are using</h2>
+	
+	<ul>
+	<li>Processor	Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, 2901 Mhz, 2 Core(s), 4 Logical Processor(s)</li>
+	</ul>
+
+	
+	<h2> Resources for the classe</h2>
+	
+	<ul>
+	<li>Notepad++</li>
+	<li>GoogleChrome</li>
+	<li>Atom</li>
+	</ul>
+	
+<p> <img alt="Error" src="http://www.reactiongifs.com/wp-content/uploads/2012/06/homer_lurking.gif" > </p>
+<p>
+      <a href="https://validator.w3.org/check?uri=referer"><img
+          src="https://www.w3.org/Icons/valid-html401-blue"
+          alt="Valid XHTML 1.0!" height="31" width="88" /></a>
+    </p>
+</body>
+</html>
